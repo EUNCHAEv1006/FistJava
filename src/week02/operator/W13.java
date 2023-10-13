@@ -1,4 +1,4 @@
-// 조건문으로 가위바위보 만들기
+package week02.operator;// 조건문으로 가위바위보 만들기
 
 import java.util.Objects;
 import java.util.Scanner;
