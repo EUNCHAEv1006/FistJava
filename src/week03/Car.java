@@ -23,7 +23,7 @@ public class Car {
         // 기본생성자 : 생략이 가능
     }
 
-    // <메서드 영역>
+    // <메소드 영역>
 
     // gasPedal
     // input : kmh
